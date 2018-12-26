@@ -1,5 +1,5 @@
 # Sprite-Color-Switcher
-A little tool for changing sprites colors quickly on Unity by demand
+A little tool for changing sprites colors quickly on Unity by demand.
 
 ## Instructions
 ### Step 1
